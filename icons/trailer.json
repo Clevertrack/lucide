@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "madsmadsdk"
+  ],
+  "tags": [
+    "trailer",
+    "transport",
+    "vehicle",
+    "equipment"
+  ],
+  "categories": [
+    "transportation"
+  ]
+}
