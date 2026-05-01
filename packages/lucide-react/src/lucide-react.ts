@@ -1,8 +1,6 @@
-export * from './icons';
-export * as icons from './icons';
-export * from './aliases';
-export * from './types';
-export * from './context';
+import { createLucideIcon } from "lucide-react";
 
-export { default as createLucideIcon } from './createLucideIcon';
-export { default as Icon } from './Icon';
+export type { LucideIcon, LucideProps } from "lucide-react";
+export { createLucideIcon };
+export * from "./clevertrack-icons";
+export * as icons from "./clevertrack-icons";
